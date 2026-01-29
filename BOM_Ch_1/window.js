@@ -7,5 +7,5 @@ openNewWindow.addEventListener("click", ()=>{
 })
 
 closeWindow.addEventListener("click", ()=>{
-    myWindow.close()
+    myWindow.close();
 })
