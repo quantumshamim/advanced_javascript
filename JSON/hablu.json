@@ -1,0 +1,16 @@
+{
+    "Userinfo": [
+        {"username": "eshan", "userNumber":5555,
+        "gender": "male"},
+        {"address":"dhaka, bangladesh", "city": "rajshahi",
+        "country": "BD", "POST Code": "1224"},
+        {"Company": "Hablu Programmer", "Students":2000,
+        "Earning":10000}
+    ],
+    "CompanyInfo": {
+        "name":"HP",
+        "address":"dhaka, bangladesh",
+        "yearly revenue": "500000 tk",
+        "business type": "edtech business"
+    }
+}
