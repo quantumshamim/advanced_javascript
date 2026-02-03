@@ -1,7 +1,7 @@
 const data = document.querySelector(".child")
 const parents = document.querySelector("#menu")
 const currentElement = document.querySelector(".current")
-
+const element = document.querySelector(".him")
 
 
 console.log(data.parentNode)
@@ -12,3 +12,5 @@ console.log(parents.children)
 
 console.log(currentElement.previousElementSibling)
 console.log(currentElement.nextElementSibling)
+
+console.log(element)
