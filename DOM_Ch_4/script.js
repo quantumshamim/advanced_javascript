@@ -30,4 +30,4 @@ let nodes = langs.map(
     }
 )
 
-app.append(...nodes);
+app.prepend(...nodes);
