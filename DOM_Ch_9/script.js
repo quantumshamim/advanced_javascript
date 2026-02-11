@@ -15,3 +15,15 @@ click.addEventListener("click", ()=>{
 click.addEventListener("dblclick", ()=>{
     console.log("double clicked")
 })
+
+
+
+// key board event
+
+let input = document.getElementById("input")
+let text = document.getElementById("text")
+
+input.addEventListener("keydown", (e)=>{
+    text.innerHTML += e.key
+})
+
