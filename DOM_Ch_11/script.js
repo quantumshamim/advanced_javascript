@@ -9,3 +9,6 @@ username.addEventListener("blur", (e)=>{
     e.target.style.backgroundColor = "skyblue"
 })
 
+
+
+//hashchange
